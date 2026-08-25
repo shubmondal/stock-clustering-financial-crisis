@@ -1,0 +1,2 @@
+Correlation between avg pairwise stock correlation and VIX: 0.604
+Based on 3967 matched trading days (2006-2021)
